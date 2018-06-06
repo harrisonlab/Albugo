@@ -1,15 +1,15 @@
-# Plasmodiophora
+# Albugo
 ==========
-Commands used in the assembly and annotation of Brassica Club Root associated Plasmodiophora genomes
+Commands used in the assembly and annotation of albugo genomes
 
 
 This document details the commands used to assemble and annotate minion genomes.
 
 Note - all this work was performed in the directory:
-/home/groups/harrisonlab/project_files/plasmodiophora
+/home/groups/harrisonlab/project_files/albugo
 
 ```bash
-  mkdir -p /home/groups/harrisonlab/project_files/plasmodiophora
+  mkdir -p /home/groups/harrisonlab/project_files/albugo
 ```
 
 ## Organising Data
